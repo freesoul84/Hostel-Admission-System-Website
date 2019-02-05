@@ -1,0 +1,67 @@
+.circle1 ,.circle2 ,.circle3 ,.circle4 {
+  width: 225px;
+  height: 225px;
+  border-radius: 50%;
+  font-size: 30px;
+  color: #1f2833;
+  line-height: 225px;
+  text-align:center;
+  background: #0098cc;
+  border: 10px solid #13bcf5;
+  margin: 50px 8px 20px 8px;
+  margin-bottom: 30px;
+}
+.carset{
+  margin-left: 2px;
+}
+.welcome
+{
+  margin-top: 14px;
+  color: white !important;
+}
+a .glyphicon-align-justify
+{
+  background-color: white;
+}
+.lab:hover
+{
+  font-size: 26px;
+  font-family: sans-serif;
+ text-align: center;
+ color: black;
+ }
+.lab
+{
+  font-size: 27px;
+  font-family: sans-serif;
+  display: block;
+  color: black;
+}
+.notification
+{
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.back
+{
+  background-color: #1f2833;
+}
+#page-wrapper-content{
+  margin-right: 20px;
+  margin-left: -20px;
+}
+.panel{
+  margin-top: 20px;
+  border-radius: 0px;
+  background-color: #c5c6c7 !important;
+  font-size: 12px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+.account
+{
+  border-radius: 0px;
+  background-color: #66fcf1;
+  border:2px solid white;
+  padding: 20px 20px 20px 20px;
+}

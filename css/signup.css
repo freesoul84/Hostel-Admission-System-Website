@@ -1,0 +1,62 @@
+body{
+		background-image: url();
+	}
+.form-group{
+	margin-bottom:8px;
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+.form-control{
+	margin-bottom:10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+}
+.form{
+	margin-top: 10px;
+}
+	
+.panel{
+	margin-top: 20px;
+	margin-right: 40px;
+	margin-left: 40px;
+margin-bottom: 30px;
+}
+h2{
+	text-align: center;
+ margin-top:100px;
+}
+.inputfile + label {
+  margin-top: 10px;
+    font-size: 1.25em;
+    font-weight: ;
+    color: black;
+    background-color:white;
+    display: inline-block;
+   padding-left: 200px;
+   padding-top: 7px;
+   padding-right:204px ;
+   padding-bottom: 7px ;
+   border: 1px solid #bab4b4 ;
+   border-radius: 2px;
+   margin-bottom: 7px;
+margin-top: -2px;
+}
+.inputfile:focus + label,
+.inputfile + label:hover {
+    background-color: white;
+}
+.inputfile + label {
+  cursor: pointer; /* "hand" cursor */
+}.inputfile {
+	width: 0.1px;
+	height: 0.1px;
+	opacity: 0.5;
+	overflow: hidden;
+	position: absolute;
+	z-index: -1;
+}
+.inputfile + label {
+	cursor: pointer; /* "hand" cursor */
+}

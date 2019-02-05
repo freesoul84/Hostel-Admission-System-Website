@@ -1,0 +1,63 @@
+#wrapper
+{
+  margin-left: -30px;
+}
+.container
+{
+  margin-left: 30px;
+}
+.btn-default
+{
+  color: black;
+}
+.form-control
+{
+  border-width: 1.1px;
+  height: 40px;
+  border-color:grey;
+}
+.panel
+{
+  border-color: black;
+  margin-top: 70px;
+  padding: 0px 10px 10px 10px;
+}
+.btn-primary
+{
+  margin-right: 20px;
+  border: 2px;
+  border-radius: 5px;
+  margin-top: 20px;
+  color:white;
+  margin-bottom: 20px;
+}
+.btn-primary:hover
+{
+   margin-right: 20px;
+  border: 2px;
+  border-radius: 5px;
+  margin-top: 20px;
+  color:white;
+  margin-bottom: 20px;
+}
+.welcome
+{
+  margin-top: 14px;
+  color: white !important;
+}
+.act-active
+{
+  color: white;
+}
+.backg{
+  background-color: #ffffff !important;
+}
+h2
+{
+  color:black !important;
+}
+input[type="text"]
+{
+  padding-bottom:10px;
+  padding-top:10px ;
+}

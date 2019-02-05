@@ -1,0 +1,105 @@
+.setting
+{
+  margin-left: 0px !important;
+  margin-top: 50px !important;
+}
+.sett{
+ margin-left: 0px;
+ margin-right: 0px;
+ margin-top:28px;
+ margin-bottom: 28px;
+}
+.sett-pass{
+margin-right: 20px;
+margin-left: 0px;
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+input[type=text]
+{
+    color:black;
+    height: 28px;
+    padding-left: 10px;
+    text-decoration: none;
+    background-color:#ffffff;
+    border-top:0;
+    border-right:0;
+    border-bottom:1px solid grey;
+    border-left:0;
+    width: 400px;
+}
+input[type=password]
+{
+    color: black;
+    height: 28px;
+    padding-left: 10px;
+    text-decoration: none;
+    background-color:#ffffff;
+    border-top:0;
+    border-right:0;
+    border-bottom:1px solid grey;
+    border-left:0;
+    border-top-color: #ffffff !important;
+    border-bottom-color: white;
+    border-left-color: #ffffff;
+    border-right-color: #ffffff;
+}
+input[type=number]
+{
+    color: black;
+    height: 28px;
+    padding-left: 10px;
+    text-decoration: none;
+    background-color:#ffffff;
+    border-top:0;
+    border-right:0;
+    border-bottom:1px solid grey;
+    border-left:0;
+    border-top-color: #ffffff !important;
+    border-bottom-color: white;
+    border-left-color: #ffffff;
+    border-right-color: #ffffff;
+}
+.view input {
+  border:0;
+  background:0;
+  outline:none !important;
+}
+.panel-default,.panel-body
+{
+  margin-top: 10px;
+padding-right: 0px;
+}
+
+.welcome
+{
+  margin-left: 5px;
+  margin-top: 14px;
+  color: white !important;
+}
+.btn-edit,.btn-save,.btn-cancel,.btn-pass
+{
+  margin-top:10px ;
+  margin-left:10px;
+  /*background-color: #ffffff;*/
+  /*border: 2px solid #ffffff;*/
+  color: black;
+}
+
+.panel
+{
+  background-color: #ffffff;
+  color:black;
+  margin-left: 20px;
+
+}
+.btn-edit:hover,.btn-save:hover,.btn-cancel:hover,.btn-pass:hover
+{
+/*background-color: #ffffff;
+border: 2px solid #ffffff;*/
+color:black;
+}
+input.text{
+  color:black;
+}

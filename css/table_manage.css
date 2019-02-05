@@ -1,0 +1,57 @@
+#wrapper
+{
+  margin-top: 0px !important;
+}
+.page-content
+{
+  left:0;
+  margin-left: -40px;
+  margin-right: 40px;
+}
+.view input {
+  border:0;
+  background:0;
+  outline:none !important;
+}
+input[type=text]
+{
+    color: black;
+    height: 28px;
+    padding-left: 10px;
+    text-decoration: none;
+    background-color:white;
+    border-top:0;
+    border-right:0;
+    border-bottom: 0;
+    border-left:0;
+}
+.welcome
+{
+  margin-top: 14px;
+  color: white !important;
+}
+.backg{
+  background-color:#c5c6c7;
+}
+.table
+{
+  background-color:white;
+  color: black;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.table-hover
+{
+  background-color:white;
+  color: black;
+}
+.btn-solve
+{
+background-color:#45a29e;
+color: black;
+}
+.btn-solve:hover
+{
+background-color:#66fcf1
+color: black;
+}

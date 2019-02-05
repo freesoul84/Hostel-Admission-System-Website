@@ -1,0 +1,29 @@
+.table{
+	margin-top: 20px;
+}
+.panel
+{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+div.form-group
+{
+	margin: 20px 20px 20px 20px;
+}
+div.form-control
+{
+	margin-bottom: 10px;
+}
+div.form-adjust
+{
+	margin-bottom: 10px;
+}
+.btn-proceed
+{
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.btn-next
+{
+	margin: 10px;
+}
